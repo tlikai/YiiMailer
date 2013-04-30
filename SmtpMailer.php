@@ -9,7 +9,7 @@
  * @license   http://www.teaconf.com/license New BSD License
  */
 
-Yii::import('ext.YiiMailer.Mailer');
+require dirname(__FILE__) . DIRECTORY_SEPARATOR .  'Mailer.php';
 
 class SmtpMailer extends Mailer
 {
