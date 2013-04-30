@@ -1,0 +1,12 @@
+{
+    "name": "tlikai/YiiMailer",
+    "description": "YiiMailer is a mail extensions based on Yii Framework",
+    "license": "New BSD",
+    "authors": {
+        "name": "Likai",
+        "email": "youyuge@gmail.com"
+    },
+    "require": {
+        "php": ">=5.0"
+    }
+}
