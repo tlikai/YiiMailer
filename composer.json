@@ -1,12 +1,17 @@
 {
-    "name": "tlikai/YiiMailer",
+    "name": "tlikai/yii-mailer",
+    "type": "yii-extension",
     "description": "YiiMailer is a mail extensions based on Yii Framework",
+    "keywords": ["smtp", "email", "yii"],
     "license": "New BSD",
-    "authors": {
-        "name": "Likai",
-        "email": "youyuge@gmail.com"
-    },
+    "authors": [
+        {
+            "name": "Likai",
+            "email": "youyuge@gmail.com",
+            "homepage": "http://youyuge.com"
+        }
+    ],
     "require": {
-        "php": ">=5.0"
+        "php": ">=5.1.0"
     }
 }
